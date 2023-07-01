@@ -624,3 +624,7 @@ a {
     opacity: 1;
   }
 }
+
+.offer__slider-inner {
+  display: flex;
+}
